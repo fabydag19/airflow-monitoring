@@ -1,0 +1,8 @@
+env
+__pycache__
+config/config.ini
+config/gcp-service-account.json
+config/influxdb-cert.pem
+data/DAGs_list.xlsx
+log/app.log
+other
