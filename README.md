@@ -1,4 +1,4 @@
-# airflow-monitoring
+# Airflow Monitoring
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
