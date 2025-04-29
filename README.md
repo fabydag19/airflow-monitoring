@@ -82,7 +82,12 @@ graph LR
     cd airflow-monitoring
     ```
 
-3. **Install dependencies**:
+3. **Create a python virtual environment**:
+    ```bash
+    python -m venv env
+    ```
+
+4. **Install dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
